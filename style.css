@@ -9,7 +9,7 @@
 }
 
 header{
-    background-color: rgb(3, 6, 24);
+    background-color: rgb(0, 0, 0);
     width: 100%;
     position: fixed;
     z-index: 999;
@@ -56,13 +56,13 @@ section {
 }
 
 .main h2 span{
-    color: blue;
+    color: rgb(0, 0, 0);
     font-size: 3em;
     font-weight: 600;
 }
 
 .main h2{
-    color: black;
+    color: rgb(255, 0, 0);
     font-size: 1.4em;
     font-weight: 500;
 }
@@ -78,7 +78,7 @@ section {
 
 .main-btn {
     color: black;
-    background-color: rgb(9, 6, 31);
+    background-color: rgb(16, 8, 85);
     text-decoration: none;
     font-size: 1.1em;
     font-weight: 600;
@@ -118,15 +118,15 @@ section {
 }
 
 .card {
-    background-color: #000016;
-    color: #000016;
+    background-color: #0b0b61;
+    color: #000000;
     width: 21.25em;
     box-shadow: 0 5px 25px rgba(1 1 1 / 15%);
     border-radius: 10px;
     padding: 25px;
     margin: 15px;
     
-    transition: 0.7s ease;
+    transition: 0.8s ease;
 }
     
 
@@ -151,8 +151,8 @@ section {
     margin: 10px;
 }
 
-.projects {
-    background-color: #000016;
+.MyGames {
+    background-color: #0a0d30;
 }
 .footer {
    background-color: rgb(0, 0, 0);
@@ -221,5 +221,3 @@ section {
         font-size: 10px;
     }
 }
-
-

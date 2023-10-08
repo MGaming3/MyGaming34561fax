@@ -1,0 +1,2 @@
+mgaming3.github.io/MyGaming34561fax/
+transform: scale(1.1);
